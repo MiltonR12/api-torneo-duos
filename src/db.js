@@ -3,8 +3,8 @@ import { createPool } from 'mysql2/promise'
 export const pool = createPool({
   host: 'aws.connect.psdb.cloud',
   port: 3306,
-  user: 'l4lknzs9nee7yt859as0',
-  password: 'pscale_pw_AL2Hig1A913y3eBMsJWH5zms3fyWW35W7W467pv8WEO',
+  user: 'anc8weux11y3njy0ha8m',
+  password: 'pscale_pw_ngzo6mJXQfrhIxh3pgSjT8tPb3BzJyY4PXAa8OaZaqR',
   database: 'torneos',
   ssl: {
     verifyIdentity: true
